@@ -25,7 +25,7 @@ const skills = [
 
 const SkillsSection = () => {
   return (
-    <section className="py-20 px-6 bg-background">
+    <section id="skills" className="py-20 px-6 bg-secondary/30">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl font-semibold mb-6">Навыки и технологии</h2>

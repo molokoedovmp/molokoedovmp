@@ -46,7 +46,7 @@ const socialLinks = [
 
 const ContactSection = () => {
   return (
-    <section className="py-20 px-6 bg-secondary/30">
+    <section id="contact" className="py-20 px-6 pb-32 bg-background">
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl font-semibold mb-6">Контакты</h2>
@@ -123,7 +123,7 @@ const ContactSection = () => {
             
             <div className="space-y-4">
               <Button 
-                className="w-full hero-gradient hover:shadow-glow transition-all duration-300"
+                className="w-full bg-primary text-primary-foreground hover:bg-primary/90 hover:shadow-glow transition-all duration-300"
                 size="lg"
               >
                 Написать мне

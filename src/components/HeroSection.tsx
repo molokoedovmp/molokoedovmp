@@ -3,7 +3,7 @@ import { Mail, MapPin, Github, Linkedin } from "lucide-react";
 
 const HeroSection = () => {
   return (
-    <section className="min-h-screen flex items-center justify-center bg-gradient-subtle px-6">
+    <section id="hero" className="min-h-screen flex items-center justify-center bg-gradient-subtle px-6">
       <div className="max-w-4xl mx-auto text-center animate-fade-in">
         <div className="mb-8">
           <h1 className="text-5xl md:text-6xl font-semibold mb-4 tracking-tight">
@@ -35,7 +35,7 @@ const HeroSection = () => {
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
           <Button 
             size="lg" 
-            className="hero-gradient hover:shadow-glow transition-all duration-300 px-8 py-3"
+            className="bg-primary text-primary-foreground hover:bg-primary/90 hover:shadow-glow transition-all duration-300 px-8 py-3"
           >
             Связаться со мной
           </Button>
