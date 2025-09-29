@@ -130,8 +130,11 @@ const ContactSection = () => {
                 variant="outline" 
                 className="w-full hover-lift"
                 size="lg"
+                asChild
               >
-                Скачать резюме PDF
+                <a href="/Resume.pdf" download>
+                  Скачать резюме PDF
+                </a>
               </Button>
             </div>
             

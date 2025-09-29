@@ -1,73 +1,44 @@
-# Welcome to your Lovable project
 
-## Project info
+# Молокоедов Михаил Павлович
 
-**URL**: https://lovable.dev/projects/bff7ba61-3c92-41b8-9f83-e08ab8517555
+**Frontend Developer**  
+Telegram: [@molokoedovmp](https://t.me/molokoedovmp)  
+Email: molokoedovm@icloud.com  
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## О себе
+Фронтенд‑разработчик с опытом работы с данными, заинтересованный в аналитике, веб‑разработке и участии в хакатонах. Стремлюсь решать реальные задачи, комбинируя навыки программирования и обработки данных.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bff7ba61-3c92-41b8-9f83-e08ab8517555) and start prompting.
+## Опыт работы
+**Лукойл — Разработчик SAP** *(Сентябрь 2023 – Сентябрь 2024)*  
+- Разработка и поддержка рабочих книг для аналитических решений  
+- Оптимизация BEx‑query, работа над производительностью отчетности  
+- Создание Calculation Views для агрегации и интеграции данных  
+- Анализ данных для выявления трендов и поддержки бизнес‑решений  
+- Настройка мэппингов и процессов загрузки данных  
+- Участие в проекте миграции: перенос данных из старой системы в новую  
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## Проекты / Фриланс
+- [ai-bazar.ru](https://ai-bazar.ru) — платформа подписок на зарубежные сервисы  
+- [vyborplus.ru](https://vyborplus.ru) — e-commerce для лесопилки  
+- [matrix-market.ru](https://matrix-market.ru) — торговая площадка Apple техники  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Образование
+- **НИУ ВШЭ** — Бакалавриат: Программная инженерия *(2021–2025)*  
+- **НИУ МЭИ** — Магистратура: Цифровые технологии *(с 2025)*  
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/bff7ba61-3c92-41b8-9f83-e08ab8517555) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## Навыки
+- **Frontend:** React, Next.js  
+- **Back / Data:** Python, SQL  
+- **Инфраструктура:** Docker, GitHub  
+- **Аналитика:** обработка данных, интеграции  
+- **Языки:** Английский
