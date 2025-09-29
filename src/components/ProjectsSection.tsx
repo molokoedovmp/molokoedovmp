@@ -1,13 +1,17 @@
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { ExternalLink, Github } from "lucide-react";
+import aibazarImg from "@/assets/aibazar.png";
+import vyborplusImg from "@/assets/vyborplus.png";
+import matrixImg from "@/assets/matrix.png";
+
 
 const projects = [
   {
     title: "AI Bazar",
     description: "Платформа для продажи подписок на зарубежные сервисы с интеграцией платежных систем и управлением подписками",
     technologies: ["React", "TypeScript", "Tailwind CSS", "Node.js"],
-    image: "/placeholder.svg",
+    image: aibazarImg,
     demo: "https://ai-bazar.ru",
     github: "https://github.com/molokoedovmp/aiBazar"
   },
@@ -15,7 +19,7 @@ const projects = [
     title: "Выбор+",
     description: "E-commerce платформа для лесопилки с каталогом продукции, системой фильтров и корзиной заказов",
     technologies: ["React", "TypeScript", "REST API", "Tailwind CSS"],
-    image: "/placeholder.svg",
+    image: vyborplusImg,
     demo: "https://vyborplus.ru",
     github: "https://github.com/molokoedovmp/lesopilka"
   },
@@ -23,7 +27,7 @@ const projects = [
     title: "Matrix Market",
     description: "Интернет-магазин техники Apple с детальными карточками товаров, корзиной и интеграцией оплаты",
     technologies: ["React", "TypeScript", "Tailwind CSS", "E-commerce"],
-    image: "/placeholder.svg",
+    image: matrixImg,
     demo: "https://matrix-market.ru",
     github: "https://github.com/molokoedovmp/matrix"
   }
