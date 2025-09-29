@@ -1,19 +1,19 @@
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { Mail, Phone, MapPin, Github, Linkedin, MessageCircle } from "lucide-react";
+import { Mail, MapPin, Github, MessageCircle } from "lucide-react";
 
 const contacts = [
   {
     icon: Mail,
     label: "Email",
-    value: "alexey@example.com",
-    href: "mailto:alexey@example.com"
+    value: "molokoedovm@icloud.com",
+    href: "mailto:molokoedovm@icloud.com"
   },
   {
-    icon: Phone,
-    label: "Телефон",
-    value: "+7 (999) 123-45-67",
-    href: "tel:+79991234567"
+    icon: MessageCircle,
+    label: "Telegram",
+    value: "@molokoedovmp",
+    href: "https://t.me/molokoedovmp"
   },
   {
     icon: MapPin,
@@ -27,19 +27,13 @@ const socialLinks = [
   {
     icon: Github,
     label: "GitHub",
-    href: "https://github.com",
+    href: "https://github.com/molokoedovmp",
     color: "hover:text-foreground"
-  },
-  {
-    icon: Linkedin,
-    label: "LinkedIn",
-    href: "https://linkedin.com",
-    color: "hover:text-blue-600"
   },
   {
     icon: MessageCircle,
     label: "Telegram",
-    href: "https://t.me",
+    href: "https://t.me/molokoedovmp",
     color: "hover:text-blue-500"
   }
 ];
@@ -125,8 +119,11 @@ const ContactSection = () => {
               <Button 
                 className="w-full bg-primary text-primary-foreground hover:bg-primary/90 hover:shadow-glow transition-all duration-300"
                 size="lg"
+                asChild
               >
-                Написать мне
+                <a href="https://t.me/molokoedovmp" target="_blank" rel="noopener noreferrer">
+                  Написать мне
+                </a>
               </Button>
               
               <Button 

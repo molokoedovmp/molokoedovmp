@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { Mail, MapPin, Github, Linkedin } from "lucide-react";
+import { Mail, MapPin, Github, MessageCircle } from "lucide-react";
 
 const HeroSection = () => {
   return (
@@ -7,28 +7,28 @@ const HeroSection = () => {
       <div className="max-w-4xl mx-auto text-center animate-fade-in">
         <div className="mb-8">
           <h1 className="text-5xl md:text-6xl font-semibold mb-4 tracking-tight">
-            Алексей <span className="text-primary">Иванов</span>
+            Молокоедов <span className="text-primary">Михаил Павлович</span>
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-6">
             Frontend разработчик
           </p>
           <div className="flex items-center justify-center gap-6 text-muted-foreground mb-8">
             <div className="flex items-center gap-2">
-              <MapPin className="w-4 h-4" />
-              <span>Москва, Россия</span>
+              <MessageCircle className="w-4 h-4" />
+              <span>@molokoedovmp</span>
             </div>
             <div className="flex items-center gap-2">
               <Mail className="w-4 h-4" />
-              <span>alexey@example.com</span>
+              <span>molokoedovm@icloud.com</span>
             </div>
           </div>
         </div>
 
         <div className="mb-12">
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Создаю современные веб-приложения с фокусом на пользовательский опыт 
-            и производительность. Специализируюсь на React, TypeScript и современных 
-            фронтенд технологиях.
+            Разработка современных веб-приложений и e-commerce решений. 
+            Опыт работы с SAP системами и создание полнофункциональных платформ 
+            на React, TypeScript и современных технологиях.
           </p>
         </div>
 
@@ -36,8 +36,11 @@ const HeroSection = () => {
           <Button 
             size="lg" 
             className="bg-primary text-primary-foreground hover:bg-primary/90 hover:shadow-glow transition-all duration-300 px-8 py-3"
+            asChild
           >
-            Связаться со мной
+            <a href="https://t.me/molokoedovmp" target="_blank" rel="noopener noreferrer">
+              Связаться со мной
+            </a>
           </Button>
           <Button 
             variant="outline" 
@@ -50,18 +53,22 @@ const HeroSection = () => {
 
         <div className="flex justify-center gap-6">
           <a 
-            href="#" 
+            href="https://github.com/molokoedovmp" 
             className="p-3 rounded-full bg-card shadow-apple-subtle hover-lift"
             aria-label="GitHub"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             <Github className="w-6 h-6" />
           </a>
           <a 
-            href="#" 
+            href="https://t.me/molokoedovmp" 
             className="p-3 rounded-full bg-card shadow-apple-subtle hover-lift"
-            aria-label="LinkedIn"
+            aria-label="Telegram"
+            target="_blank"
+            rel="noopener noreferrer"
           >
-            <Linkedin className="w-6 h-6" />
+            <MessageCircle className="w-6 h-6" />
           </a>
         </div>
       </div>

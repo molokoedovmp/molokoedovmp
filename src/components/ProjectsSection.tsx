@@ -4,28 +4,28 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "E-commerce Dashboard",
-    description: "Административная панель для управления интернет-магазином с аналитикой продаж, управлением товарами и заказами",
-    technologies: ["React", "TypeScript", "Tailwind CSS", "Chart.js"],
+    title: "AI Bazar",
+    description: "Платформа для продажи подписок на зарубежные сервисы с интеграцией платежных систем и управлением подписками",
+    technologies: ["React", "TypeScript", "Tailwind CSS", "Node.js"],
     image: "/placeholder.svg",
-    demo: "#",
-    github: "#"
+    demo: "https://ai-bazar.ru",
+    github: "https://github.com/molokoedovmp/aiBazar"
   },
   {
-    title: "Task Management App",
-    description: "Приложение для управления задачами с drag & drop интерфейсом, командной работой и отслеживанием прогресса",
-    technologies: ["Next.js", "Node.js", "PostgreSQL", "Prisma"],
+    title: "Выбор+",
+    description: "E-commerce платформа для лесопилки с каталогом продукции, системой фильтров и корзиной заказов",
+    technologies: ["React", "TypeScript", "REST API", "Tailwind CSS"],
     image: "/placeholder.svg",
-    demo: "#",
-    github: "#"
+    demo: "https://vyborplus.ru",
+    github: "https://github.com/molokoedovmp/lesopilka"
   },
   {
-    title: "Weather App",
-    description: "Прогнозы погоды с геолокацией, красивыми анимациями и детальной информацией о погодных условиях",
-    technologies: ["Vue.js", "SASS", "Weather API", "PWA"],
+    title: "Matrix Market",
+    description: "Интернет-магазин техники Apple с детальными карточками товаров, корзиной и интеграцией оплаты",
+    technologies: ["React", "TypeScript", "Tailwind CSS", "E-commerce"],
     image: "/placeholder.svg",
-    demo: "#",
-    github: "#"
+    demo: "https://matrix-market.ru",
+    github: "https://github.com/molokoedovmp/matrix"
   }
 ];
 
