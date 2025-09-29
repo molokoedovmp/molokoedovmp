@@ -32,7 +32,7 @@ const HeroSection = () => {
           </p>
         </div>
 
-        <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
+        <div className="flex justify-center mb-12">
           <Button 
             size="lg" 
             className="bg-primary text-primary-foreground hover:bg-primary/90 hover:shadow-glow transition-all duration-300 px-8 py-3"
@@ -40,16 +40,6 @@ const HeroSection = () => {
           >
             <a href="https://t.me/molokoedovmp" target="_blank" rel="noopener noreferrer">
               Связаться со мной
-            </a>
-          </Button>
-          <Button 
-            variant="outline" 
-            size="lg" 
-            className="px-8 py-3 hover-lift"
-            asChild
-          >
-            <a href="/cv-molokoedov.pdf" download="CV-Molokoedov-Mikhail.pdf">
-              Скачать резюме
             </a>
           </Button>
         </div>
