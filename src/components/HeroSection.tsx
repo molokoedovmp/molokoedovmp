@@ -46,8 +46,11 @@ const HeroSection = () => {
             variant="outline" 
             size="lg" 
             className="px-8 py-3 hover-lift"
+            asChild
           >
-            Скачать резюме
+            <a href="/cv-molokoedov.pdf" download="CV-Molokoedov-Mikhail.pdf">
+              Скачать резюме
+            </a>
           </Button>
         </div>
 

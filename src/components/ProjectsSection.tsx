@@ -9,7 +9,7 @@ import matrixImg from "@/assets/matrix.png";
 const projects = [
   {
     title: "AI Bazar",
-    description: "Платформа для продажи подписок на зарубежные сервисы с интеграцией платежных систем и управлением подписками",
+    description: "Собственный проект: платформа для продажи подписок на зарубежные сервисы с интеграцией платежных систем и управлением подписками",
     technologies: ["React", "TypeScript", "Tailwind CSS", "Node.js"],
     image: aibazarImg,
     demo: "https://ai-bazar.ru",

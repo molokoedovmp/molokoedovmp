@@ -32,7 +32,7 @@ const education = [
 
 const EducationSection = () => {
   return (
-    <section className="py-20 px-6 bg-background">
+    <section id="education" className="py-20 px-6 bg-background">
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl font-semibold mb-6">Образование</h2>
