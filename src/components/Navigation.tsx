@@ -42,7 +42,7 @@ const navigationItems = [
 
 const Navigation = () => {
   return (
-    <nav className="fixed bottom-6 left-1/2 transform -translate-x-1/2 z-50">
+    <nav className="fixed bottom-6 left-1/2 transform -translate-x-1/2 z-50 hidden md:block">
       <Card className="glass-effect shadow-apple-large border border-border/50">
         <div className="flex items-center gap-2 p-3">
           {navigationItems.map((item) => {

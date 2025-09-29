@@ -12,6 +12,10 @@ const HeroSection = () => {
           <p className="text-xl md:text-2xl text-muted-foreground mb-6">
             Frontend разработчик
           </p>
+          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-sm font-medium shadow-apple-subtle">
+            <span className="w-2 h-2 rounded-full bg-primary animate-pulse"></span>
+            Победитель хакатона ВШЭ × Контур (2024)
+          </div>
           <div className="flex items-center justify-center gap-6 text-muted-foreground mb-8">
             <div className="flex items-center gap-2">
               <MessageCircle className="w-4 h-4" />
