@@ -1,44 +1,67 @@
+<div align="center">
 
-# Молокоедов Михаил Павлович
+# Скрипткин · Веб-студия
 
-**Frontend Developer**  
-Telegram: [@molokoedovmp](https://t.me/molokoedovmp)  
-Email: molokoedovm@icloud.com  
+### Создаём и запускаем сайты на современных технологиях
 
----
+Прототип за несколько дней — продакшн за 2–6 недель.  
+Подключаемся к готовому проекту или собираем с нуля.
 
-## О себе
-Фронтенд‑разработчик с опытом работы с данными, заинтересованный в аналитике, веб‑разработке и участии в хакатонах. Стремлюсь решать реальные задачи, комбинируя навыки программирования и обработки данных.
+[![Website](https://img.shields.io/badge/skriptkin.ru-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://skriptkin.ru)
+[![Telegram](https://img.shields.io/badge/Обсудить_задачу-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skriptkin)
 
----
-
-## Опыт работы
-**Лукойл — Разработчик SAP** *(Сентябрь 2023 – Сентябрь 2024)*  
-- Разработка и поддержка рабочих книг для аналитических решений  
-- Оптимизация BEx‑query, работа над производительностью отчетности  
-- Создание Calculation Views для агрегации и интеграции данных  
-- Анализ данных для выявления трендов и поддержки бизнес‑решений  
-- Настройка мэппингов и процессов загрузки данных  
-- Участие в проекте миграции: перенос данных из старой системы в новую  
+</div>
 
 ---
 
-## Проекты / Фриланс
-- [ai-bazar.ru](https://ai-bazar.ru) — платформа подписок на зарубежные сервисы  
-- [vyborplus.ru](https://vyborplus.ru) — e-commerce для лесопилки  
-- [matrix-market.ru](https://matrix-market.ru) — торговая площадка Apple техники  
+## 🛠 Стек
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
-## Образование
-- **НИУ ВШЭ** — Бакалавриат: Программная инженерия *(2021–2025)*  
-- **НИУ МЭИ** — Магистратура: Цифровые технологии *(с 2025)*  
+## 📦 Что делаем
+
+| Направление | Услуги |
+|---|---|
+| 🎨 **Брендинг** | Логотип, фирменный стиль |
+| 🖼 **Дизайн** | Баннеры, презентации, UI |
+| 💻 **Разработка** | Landing Page, корпоративный сайт, интернет-магазин, квиз-сайт, прототип, редизайн, интеграции с платёжными системами |
+| 🔍 **SEO** | Базовое, стандартное, премиум-продвижение |
+
+Можно взять **один этап** или **полный цикл**: прототип → дизайн → фронт → бэк → деплой → SEO.
 
 ---
 
-## Навыки
-- **Frontend:** React, Next.js  
-- **Back / Data:** Python, SQL  
-- **Инфраструктура:** Docker, GitHub  
-- **Аналитика:** обработка данных, интеграции  
-- **Языки:** Английский
+## 📬 Контакты
+
+<div align="center">
+
+| | |
+|---|---|
+| 🌐 Сайт | [skriptkin.ru](https://skriptkin.ru) |
+| почта | molokoedovmp@gmail.com |
+
+</div>
+
+---
+
+<div align="center">
+<sub>Используем только современный стек · Готовим к трафику · Сдаём в срок</sub>
+</div>
