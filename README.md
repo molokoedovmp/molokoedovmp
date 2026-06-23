@@ -8,7 +8,7 @@
 Подключаемся к готовому проекту или собираем с нуля.
 
 [![Website](https://img.shields.io/badge/skriptkin.ru-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://skriptkin.ru)
-[![Telegram](https://img.shields.io/badge/Обсудить_задачу-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skriptkin)
+[![Telegram](https://img.shields.io/badge/Обсудить_задачу-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/molokoedovmp)
 
 </div>
 
@@ -56,7 +56,7 @@
 | | |
 |---|---|
 | 🌐 Сайт | [skriptkin.ru](https://skriptkin.ru) |
-| почта | molokoedovmp@gmail.com |
+| ✉️ Почта | molokoedovmp@gmail.com |
 
 </div>
 
