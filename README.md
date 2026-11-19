@@ -1,67 +1,29 @@
 <div align="center">
 
-# Скрипткин · Веб-студия
+# Михаил Молокоедов
 
-### Создаём и запускаем сайты на современных технологиях
+### Веду aiBazar — библиотеку ИИ-инструментов и ресурсов
 
-Прототип за несколько дней — продакшн за 2–6 недель.  
-Подключаемся к готовому проекту или собираем с нуля.
-
-[![Website](https://img.shields.io/badge/skriptkin.ru-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://skriptkin.ru)
-[![Telegram](https://img.shields.io/badge/Обсудить_задачу-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/molokoedovmp)
+[Открыть aiBazar](https://ai-bazar.ru/) · [Telegram проекта](https://t.me/aiBazar1)
 
 </div>
 
----
+## О проекте
 
-## 🛠 Стек
+[aiBazar](https://ai-bazar.ru/) помогает подобрать ИИ-инструмент под конкретную задачу. На сайте можно искать по названию или описанию задачи, сравнивать возможности сервисов и находить ресурсы для работы с ИИ-ассистентами.
 
-<div align="center">
+Я веду каталог и публикую материалы о том, как применять ИИ-инструменты в разработке и повседневной работе.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+## Что есть на aiBazar
 
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 📦 Что делаем
-
-| Направление | Услуги |
+| Раздел | Что можно найти |
 |---|---|
-| 🎨 **Брендинг** | Логотип, фирменный стиль |
-| 🖼 **Дизайн** | Баннеры, презентации, UI |
-| 💻 **Разработка** | Landing Page, корпоративный сайт, интернет-магазин, квиз-сайт, прототип, редизайн, интеграции с платёжными системами |
-| 🔍 **SEO** | Базовое, стандартное, премиум-продвижение |
+| [AI-библиотека](https://ai-bazar.ru/catalog) | Нейросети для работы с текстом, изображениями, видео и кодом, а также MCP-серверы, готовые промпты, навыки для ИИ-агентов и проекты с открытым исходным кодом. |
+| [Сообщество](https://ai-bazar.ru/blog) | Статьи, обзоры сервисов и новые материалы из каталога. |
+| [Калькулятор цен](https://ai-bazar.ru/calculator) | Предварительный расчёт стоимости зарубежной подписки в рублях и информация о том, как получить помощь с оплатой. |
 
-Можно взять **один этап** или **полный цикл**: прототип → дизайн → фронт → бэк → деплой → SEO.
+Например, в библиотеке можно найти инструмент для генерации видео или MCP-сервер для подключения GitHub к ИИ-ассистенту.
 
----
+## Связь
 
-## 📬 Контакты
-
-<div align="center">
-
-| | |
-|---|---|
-| 🌐 Сайт | [skriptkin.ru](https://skriptkin.ru) |
-| ✉️ Почта | molokoedovmp@gmail.com |
-
-</div>
-
----
-
-<div align="center">
-<sub>Используем только современный стек · Готовим к трафику · Сдаём в срок</sub>
-</div>
+По вопросам и предложениям по aiBazar — [Telegram](https://t.me/molokoedovmp) или [электронная почта](mailto:molokoedovmp@gmail.com).
